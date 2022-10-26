@@ -1,0 +1,18 @@
+.login-content{
+    width: 100%;
+    padding: 15px;
+    margin: auto;
+    background-color: grey;
+    height: 100vh;
+
+}
+
+.btn-login{
+    background-color: black;
+    color: white;
+    font-weight: 600;
+}
+
+.btn-login:hover{
+    background-color: beige;
+}
